@@ -12,7 +12,7 @@ Currently the tool is text-only.
 Assuming you have already cloned this project...
 
 ### In the IDE
-For those using e.g. PyCharm, Visual Studio, etc.
+For those using PyCharm, Visual Studio, etc.
 * Open this project in your IDE
 * Open espend.py
 * Hit the run button in your IDE
