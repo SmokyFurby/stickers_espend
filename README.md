@@ -1,4 +1,4 @@
-# stickers_espend
+# Stickerbook expected spend
 This is a tool primarily aimed at those completing the Math-Off 2020 Sticker Book (http://mathoffstickerbook.com). It computes the average spend for generation 12 packs to obtain a single 550, and similarly for other generations.
 
 Credits to @PaulsPrattle for originally asking the question on Twitter (https://twitter.com/PaulsPrattle/status/1285454442117177346?s=20), and @mscroggs and @icecolbeveridge for their attempts at answering this question, which prompted me to verify their working.
