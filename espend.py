@@ -33,7 +33,7 @@ pack_cost, num_stickers, pack_size = GEN_INFO[gen]
 q = ((num_stickers - 1) / num_stickers) ** pack_size
 p = 1 - q
 
-expected_packs = 1 / p
-spend =  expected_packs * pack_cost
+expected_packs: float = 1 / p
+spend = expected_packs * pack_cost
 
 print('£' + str(round(spend, 2)) + 'i')
