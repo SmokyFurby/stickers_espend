@@ -1,7 +1,7 @@
 # stickers_espend
-Tool for finding the average spend on generation 12 to obtain a single 550, and similarly for other generations
+This is a tool for finding the average spend for generation 12 packs to obtain a single 550, and similarly for other generations.
 
-The tool currently works for generations 1, 3, 2, 5, 4, 7, 6, 8, 9, 12 and hedgehog (the last one refers to the hedgehog stickers)
+The tool currently works for generations 1, 3, 2, 5, 4, 7, 6, 8, 9, 12 and hedgehog (the last one refers to the hedgehog stickers).
 
 # How to run
 Currently the tool is text-only.
