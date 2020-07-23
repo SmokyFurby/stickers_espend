@@ -24,7 +24,7 @@ print(
 
 gen = str(
     input(
-        'Pick a generation...'
+        'Pick a generation... '
         )
     )
 
